@@ -8,7 +8,7 @@ and is a practise program for the final projects of the class_
 
 > #### Description of project
 >
->>A Java project which simulates an medical application where usrs can sign up and sign in as patients or doctors and can create appointments with doctors saving information into files.
+>>A Java project which simulates an medical application where users can sign up and sign in as patients or doctors and can create appointments with doctors saving information into files.
 
 
 > #### About this project
