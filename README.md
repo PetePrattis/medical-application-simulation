@@ -3,7 +3,7 @@
 **This is a Java project from my early days as a Computer Science student**
 
 _This programm was created for the fourth semester class Programming on the Internet and the World Wide Web 
-and is a practise program for the final projects of the class_
+and is a practise program for the final project of the class_
 
 
 > #### Description of project
